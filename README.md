@@ -3,4 +3,4 @@ Additional Results on Winogrande and Truthful_QA
 ![Project Image](lvlslm/additional_tasks.PNG)
 
 We add temperature scaling as baselines.
-![Project Image](lvlslm/temperture_baseline.PNG)
+![result Image](lvlslm/temperture_baseline.PNG)
